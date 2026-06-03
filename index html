@@ -1,4 +1,16 @@
-<IDOCTYPE html>
-    <html>
-        
-    </html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho-2026</title>
+</head>
+<body>
+     <header>
+<h1>AGRO FORTE</h1> 
+<p>texto da pesquisa e DOCS (introducao)</p>
+     </header>
+<H2>subtitulo</H2>
+
+</body>
+</html>
